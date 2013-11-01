@@ -42,3 +42,5 @@ Aliado a isso, o JavaScript é também responsável por manipular os elementos d
 Temos várias outras peculiaridades na linguagem JavaScript, que ao decorrer desta viagem nós iremos descobrir... 
 
 **fonte:** JavaScript de Alto Desempenho - Nicholas C. Zakas | Padrões JavaScript - Stoyan Stefanov
+
+### Implementações do JavaScript
