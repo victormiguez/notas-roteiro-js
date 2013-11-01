@@ -133,7 +133,7 @@ Algumas propriedades:
 history.length
 
 ```
-exemplo no [jsFiddle](http://jsfiddle.net/3cBys/)
+exemplo no [jsFiddle](http://jsfiddle.net/3cBys/2/)
 
 
 
