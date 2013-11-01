@@ -126,7 +126,7 @@ window.close ();
 
 Exemplo de uma propriedade:
 
-**window.length**: retorna o número inteiro representando o número de páginas no histórico de sessão, incluindo a página atual carregada. Se for a primeira página aberta, por exemplo, o valor retornado será 1.
+**window.history.length**: retorna o número inteiro representando o número de páginas no histórico de sessão, incluindo a página atual carregada. Se for a primeira página aberta, por exemplo, o valor retornado será 1.
 
 ```
 // teste no chrome developer tools
@@ -145,9 +145,9 @@ Exemplo de um método:
 history.back ();
 
 ```
-exemplo no [jsFiddle](http://jsfiddle.net/UmSk9/2/)
+**exemplo no [jsFiddle](http://jsfiddle.net/UmSk9/2/)**
 
-Veja também o exemplo do método `go()`. [jsFiddle](http://jsfiddle.net/TeKuV/1/)
+Veja também o exemplo do método `go()`. **[jsFiddle](http://jsfiddle.net/TeKuV/1/)**
 
 
 
