@@ -1,4 +1,4 @@
-#### Notas do Roteiro "Como Aprender JavaScript Corretamente"
+### Notas do Roteiro "Como Aprender JavaScript Corretamente"
 
 #### O que serão estas notas?
 
@@ -12,9 +12,11 @@ Um local para sintetizar o conteúdo aprendido e auxiliar os colegas que irão c
 
 **1. WHAT IS JAVASCRIPT?**
 
-*A Short History
-*JavaScript Implementations
+* A Short History
+* JavaScript Implementations
 	* ECMAScript
 	* Document Object ModelDOM
 	* Browser Object Model BOM
 * JavaScript Versions
+
+
