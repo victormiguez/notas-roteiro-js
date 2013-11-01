@@ -18,11 +18,17 @@ Tanto este material como o livro serão **gratuitos** para a comunidade.
 
 **1) O que é JavaScript?**
 
-* Uma breve História
-* Implementações do JavaScript
-	* ECMAScript
-	* Document Object Model - DOM
-	* Browser Object Model - BOM
-* Versões JavaScript
+* [Uma breve História](#umabrevehistoria)
+* [Implementações do JavaScript](#)
+	* [ECMAScript](#)
+	* [Document Object Model - DOM](#)
+	* [Browser Object Model - BOM](#)
+* [Versões JavaScript](#)
 
+---
 
+# Semana 1 e 2
+
+## 1) O que é JavaScript?
+
+### Uma breve História
