@@ -126,7 +126,7 @@ window.close ();
 
 Algumas propriedades:
 
-**window.length**: retorna o número inteiro representando o número de páginas no histórico de sessão, incluindo a página atual carregada. Se for a primeira página aberta, por exemplo, o valor retornado será 1.
+**window.history.length**: retorna o número inteiro representando o número de páginas no histórico de sessão, incluindo a página atual carregada. Se for a primeira página aberta, por exemplo, o valor retornado será 1.
 
 ```
 // teste no chrome developer tools
