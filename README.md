@@ -18,7 +18,7 @@ Tanto este material como o livro serão **gratuitos** para a comunidade.
 
 **1) O que é JavaScript?**
 
-* [Uma breve História](#umabrevehistoria)
+* [Uma breve História](#uma-breve-hist%C3%B3ria)
 * [Implementações do JavaScript](#)
 	* [ECMAScript](#)
 	* [Document Object Model - DOM](#)
