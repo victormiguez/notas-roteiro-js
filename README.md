@@ -86,3 +86,5 @@ Vamos ver algumas propriedades do BOM:
 * O objeto `screen`, que nos dá informações detalhadas sobre a resolução da tela do usuário
 * Suporte aos cookies
 * Objetos personalizados como o `XMLHttpRequest` e no Internet Explorer `ActiveXObject`
+
+> **Fonte:** Professional JavaScript for WebDevelopers - Nicholas C. Zakas | [Mozilla Developers Network](https://developer.mozilla.org/en-US/) | [Artigo 1](http://vkanakaraj.wordpress.com/2009/12/18/javascript-vs-dom-vs-bom-relationship-explained/)
