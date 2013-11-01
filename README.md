@@ -10,13 +10,13 @@ Um local para sintetizar o conteúdo aprendido e auxiliar os colegas que irão c
 
 ### Semana 1 e 2
 
-**1. WHAT IS JAVASCRIPT?**
+** 1. O que é JavaScript **
 
-* A Short History
-* JavaScript Implementations
+* Uma breve História
+* Implementações do JavaScript
 	* ECMAScript
-	* Document Object ModelDOM
-	* Browser Object Model BOM
-* JavaScript Versions
+	* Document Object Model - DOM
+	* Browser Object Model - BOM
+* Versões JavaScript
 
 
