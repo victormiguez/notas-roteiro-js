@@ -147,7 +147,7 @@ history.back ();
 ```
 **exemplo no [jsFiddle](http://jsfiddle.net/UmSk9/2/)**
 
-Veja também o exemplo do método `go()`. **[jsFiddle](http://jsfiddle.net/TeKuV/1/)**
+Veja também o exemplo do método `go()`. **[jsFiddle](http://jsfiddle.net/TeKuV/5/)**
 
 
 
