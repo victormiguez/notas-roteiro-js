@@ -89,4 +89,4 @@ Vamos ver algumas propriedades do BOM:
 
 > **Fonte:** Professional JavaScript for WebDevelopers - Nicholas C. Zakas | [Mozilla Developers Network](https://developer.mozilla.org/en-US/) | [Artigo 1](http://vkanakaraj.wordpress.com/2009/12/18/javascript-vs-dom-vs-bom-relationship-explained/)
 
-### Exemplos de uso - DOM e BOM
+### Exemplos de uso - DOM e BOM [⇪](#%C3%8Dndice)
