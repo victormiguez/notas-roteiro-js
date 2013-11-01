@@ -55,3 +55,14 @@ Apesar de serem postos como sinônimos, o JavaScript e o ECMAScript não possuem
 
 ### ECMAScript
 
+É uma linguagem de script que não é ligada somente aos navegadores. Ela forma a base do JavaScript, e foi padronizada pela organização [Ecma International](http://www.ecma-international.org/) na especificação **ECMA- e ECMA-402.**
+
+Cuida basicamente das seguintes partes da linguagem:
+
+* Sintaxe
+* Tipos
+* Statements (afirmações)
+* Palavras-chave
+* Palavras reservadas
+* Operadores
+* Objetos
