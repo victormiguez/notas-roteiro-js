@@ -48,3 +48,7 @@ Temos várias outras peculiaridades na linguagem JavaScript, que ao decorrer des
 **fonte:** JavaScript de Alto Desempenho - Nicholas C. Zakas | Padrões JavaScript - Stoyan Stefanov
 
 ### Implementações do JavaScript
+
+Apesar de serem postos como sinônimos, o JavaScript e o ECMAScript não possuem tal relação pois como podemos observar na ilustração abaixo, o JavaScript é a junção do ECMAScript (no caso o núcleo), o DOM (Document Objetc Model) e o BOM (Browser Object Model).
+
+![js-ecma-dom-bom](http://i.imgur.com/78YVXKG.png)
