@@ -1,4 +1,4 @@
-### Notas do Roteiro "Como Aprender JavaScript Corretamente"
+## Notas do Roteiro "Como Aprender JavaScript Corretamente"
 
 #### O que serão estas notas?
 
@@ -70,6 +70,27 @@ Cuida basicamente das seguintes partes da linguagem:
 ### Document Object Model - DOM [⇪](#%C3%8Dndice)
 
 O Modelo de Objeto de Documentos (DOM) é uma API (Application Programming Interface - Interface de Programação de Aplicativos) criada para que nós possamos alterar e editar a estrutura, conteúdo e estilo de um documento eletrônico, independente da plataforma e da linguagem. A API DOM fornece uma maneira padrão de acesso aos elementos contidos no documento, além de permitir o trabalho com os mesmos de forma isolada, possibilitando a criação de páginas altamente dinâmicas. 
+
+O DOM mapeia toda a página como um documento composto de nós hierárquicos como uma estrutura de árvore e usa a DOM API, os nós podem ser removidos, adicionados e substituídos. São dividos em 3 níveis:
+
+**DOM nível 1**: tem 2 módulos. O *DOM Core* fornece o caminho para mapear a estrutura documento para fácil acesso e manipulação. *DOM HTML*, extende o DOM Core adicionando objetos e métodos específicos para o HTML.
+
+**DOM nível 2**: introduziu diversos novos módulos DOM para lidar com novos tipos de interfaces:
+
+* DOM Views - descreve interfaces para acompanhar as várias views de um documento (ou sejna, o documento antes do estilo CSS e depois do estilo CSS)
+* DOM Events - descreve interfaces para eventos
+* DOM Style - descreve interfaces para lidar com estilos baseados no CSS
+* DOM Traversal and Range - descreve interfaces para percorrer e manipular um árvore de documento
+
+**DOM nível 3:** amplia ainda mais o DOM com a introdução de métodos para carregar e salvar documentos de forma uniforme (contendo um novo módulo chamado 'DOM Load and Save'), como também métodos para validar o documento (DOM Validation).
+
+Note que o DOM não é específico ao JavaScript, e de fato tem sido implantado em inúmeras outras linguagens. Para navegadores, entretanto, o DOM foi implementado usando ECMAScript e agora torna-se uma grande parte da linguagem JavaScript.
+
+**Outros DOMs**
+
+* Scalable Vector Graphics (SVG)
+* Mathematical Markup Language (MathML)
+* Synchronized Multimedia Integration Language (SMIL)
 
 ### Browser Object Model - BOM [⇪](#%C3%8Dndice)
 
