@@ -27,7 +27,7 @@ Tanto este material como o livro serão **gratuitos** para a comunidade.
 	* [ECMAScript](#ecmascript-)
 	* [Document Object Model - DOM](#document-object-model---dom)
 	* [Browser Object Model - BOM](#)
-* [Versões JavaScript](#)
+	* [Exemplos de uso - DOM e BOM](#)
 
 ---
 
@@ -73,3 +73,16 @@ O Modelo de Objeto de Documentos (DOM) é uma API (Application Programming Inter
 
 ### Browser Object Model - BOM [⇪](#%C3%8Dndice)
 
+O BOM (Modelo de Objeto do Navegador) permite o acesso e a manipulação da janela do navegador, podendo assim interagir com o navegador em um contexto fora do mostrado na página. Um problema notado no BOM é o fato de não haver uma padronização. O HTML5 cuidou de boa parte desta especificação, nos livrando de muitos problemas causados pelo BOM.
+
+Vamos ver algumas propriedades do BOM: 
+
+> Trecho extraído do livro Professional JavaScript for WebDevelopers - Nicholas C. Zakas (seção disponibilizada [aqui](http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691))
+
+* Capacidade de criar novas janelas no navegador
+* Capacidade de mover, redimensionar e fechar janelas do navegador
+* O objeto `navigator`, que fornece informações detalhadas sobre o navegador
+* O objeto `location`, que nos dá informações detalhadas sobre a página carregada no navegador
+* O objeto `screen`, que nos dá informações detalhadas sobre a resolução da tela do usuário
+* Suporte aos cookies
+* Objetos personalizados como o `XMLHttpRequest` e no Internet Explorer `ActiveXObject`
