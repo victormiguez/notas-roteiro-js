@@ -124,16 +124,30 @@ window.close ();
 
 **window.history** - BOM : Manipula os enventos relacionados ao histórico da página.
 
-Algumas propriedades:
+Exemplo de uma propriedade:
 
-**window.history.length**: retorna o número inteiro representando o número de páginas no histórico de sessão, incluindo a página atual carregada. Se for a primeira página aberta, por exemplo, o valor retornado será 1.
+**window.length**: retorna o número inteiro representando o número de páginas no histórico de sessão, incluindo a página atual carregada. Se for a primeira página aberta, por exemplo, o valor retornado será 1.
 
 ```
 // teste no chrome developer tools
 history.length
 
 ```
-**exemplo no [jsFiddle](http://jsfiddle.net/3cBys/2/)**
+exemplo no [jsFiddle](http://jsfiddle.net/3cBys/)
+
+Exemplo de um método:
+
+**window.history.back ()** - BOM: Carrega a página anterior a atual.
+
+``` 
+
+// teste no chrome developer tools
+history.back ();
+
+```
+exemplo no [jsFiddle](http://jsfiddle.net/UmSk9/2/)
+
+Veja também o exemplo do método `go()`. [jsFiddle](http://jsfiddle.net/TeKuV/1/)
 
 
 
