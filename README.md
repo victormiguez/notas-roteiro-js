@@ -108,6 +108,8 @@ Vamos ver algumas propriedades do BOM:
 * Suporte aos cookies
 * Objetos personalizados como o `XMLHttpRequest` e no Internet Explorer `ActiveXObject`
 
+**OBS:** Podemos chamar os métodos BOM sem usar `window.nomeDaPropriedade`, pois o escopo global já está no namespace `window`.
+
 > **Fonte:** Professional JavaScript for WebDevelopers - Nicholas C. Zakas | [Mozilla Developers Network](https://developer.mozilla.org/en-US/) | [Artigo 1](http://vkanakaraj.wordpress.com/2009/12/18/javascript-vs-dom-vs-bom-relationship-explained/)
 
 ### Exemplos de uso - DOM e BOM [⇪](#%C3%8Dndice)
@@ -119,3 +121,20 @@ Vamos ver algumas propriedades do BOM:
 window.close ();
 
 ```
+
+**window.history** - BOM : Manipula os enventos relacionados ao histórico da página.
+
+Algumas propriedades:
+
+**window.length**: retorna o número inteiro representando o número de páginas no histórico de sessão, incluindo a página atual carregada. Se for a primeira página aberta, por exemplo, o valor retornado será 1.
+
+```
+// teste no chrome developer tools
+history.length
+
+```
+exemplo no [jsFiddle](http://jsfiddle.net/3cBys/)
+
+
+
+
