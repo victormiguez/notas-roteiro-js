@@ -31,11 +31,11 @@ Tanto este material como o livro serão **gratuitos** para a comunidade.
 
 ---
 
-# Semana 1 e 2
+# Semana 1 e 2 [◮](#%C3%8Dndice)
 
-## 1) O que é JavaScript?
+## 1) O que é JavaScript? [◮](#%C3%8Dndice)
 
-### Uma breve História
+### Uma breve História [◮](#%C3%8Dndice)
 
 O JavaScript nasceu para suprir uma carência deixada quando os applets Java™ falharam como "linguagem oficial da internet". Então, em 1996, foi introduzido ao Netscape Navigator 2 o JavaScript pela primeira vez, mesmo de forma ainda um pouco "bruta". A internet estava engatinhando, então a qualidade do código não era algo exigido, fazendo com que a linguagem por muito tempo tenha ficado mal vista perante os programadores.
 
@@ -47,13 +47,13 @@ Temos várias outras peculiaridades na linguagem JavaScript, que ao decorrer des
 
 > **fonte:** JavaScript de Alto Desempenho - Nicholas C. Zakas | Padrões JavaScript - Stoyan Stefanov
 
-### Implementações do JavaScript
+### Implementações do JavaScript [◮](#%C3%8Dndice)
 
 Apesar de serem postos como sinônimos, o JavaScript e o ECMAScript não possuem tal relação pois como podemos observar na ilustração abaixo, o JavaScript é a junção do ECMAScript (no caso o núcleo), o DOM (Document Objetc Model) e o BOM (Browser Object Model).
 
 ![js-ecma-dom-bom](http://i.imgur.com/78YVXKG.png)
 
-### ECMAScript
+### ECMAScript [◮](#%C3%8Dndice)
 
 É uma linguagem de script que não é ligada somente aos navegadores. Ela forma a base do JavaScript, e foi padronizada pela organização [Ecma International](http://www.ecma-international.org/) na especificação **ECMA- e ECMA-402.**
 
