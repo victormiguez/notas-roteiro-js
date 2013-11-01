@@ -112,7 +112,7 @@ Vamos ver algumas propriedades do BOM:
 
 ### Exemplos de uso - DOM e BOM [⇪](#%C3%8Dndice)
 
-**window.close () ** - BOM
+**window.close ()** - BOM
 
 ``` 
 // teste no chrome developer tools - fecha a página atual
