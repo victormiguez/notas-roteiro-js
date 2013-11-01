@@ -16,7 +16,7 @@ Tanto este material como o livro serão **gratuitos** para a comunidade.
 
 ### Semana 1 e 2
 
-** 1) O que é JavaScript? **
+**1) O que é JavaScript?**
 
 * Uma breve História
 * Implementações do JavaScript
