@@ -1,4 +1,4 @@
-## Notas do Roteiro "Como Aprender JavaScript Corretamente"
+### Notas do Roteiro "Como Aprender JavaScript Corretamente"
 
 #### O que serão estas notas?
 
