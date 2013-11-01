@@ -69,7 +69,7 @@ Cuida basicamente das seguintes partes da linguagem:
 
 ### Document Object Model - DOM [⇪](#%C3%8Dndice)
 
-O Modelo de Objeto de Documentos (DOM) é uma API (Application Programming Interface - Interface de Programação de Aplicativos) criada para que através nós possamos alterar e editar a estrutura, conteúdo e estilo de um documento eletrônico, independente da plataforma e da linguagem. A API DOM fornece uma maneira padrão de acesso aos elementos contidos no documento, além de permitir o trabalho com os mesmos de forma isolada, possibilitando a criação de páginas altamente dinâmicas. 
+O Modelo de Objeto de Documentos (DOM) é uma API (Application Programming Interface - Interface de Programação de Aplicativos) criada para que nós possamos alterar e editar a estrutura, conteúdo e estilo de um documento eletrônico, independente da plataforma e da linguagem. A API DOM fornece uma maneira padrão de acesso aos elementos contidos no documento, além de permitir o trabalho com os mesmos de forma isolada, possibilitando a criação de páginas altamente dinâmicas. 
 
 ### Browser Object Model - BOM [⇪](#%C3%8Dndice)
 
