@@ -114,7 +114,9 @@ Vamos ver algumas propriedades do BOM:
 
 ### Exemplos de uso - DOM e BOM [⇪](#%C3%8Dndice)
 
-**window.close ()** - BOM
+##### Exemplos BOM
+
+**window.close ()** - fecha a página atual
 
 ``` 
 // teste no chrome developer tools - fecha a página atual
@@ -122,7 +124,7 @@ window.close ();
 
 ```
 
-**window.history** - BOM : Manipula os enventos relacionados ao histórico da página.
+**window.history** - Manipula os enventos relacionados ao histórico da página.
 
 Exemplo de uma propriedade:
 
@@ -150,5 +152,11 @@ history.back ();
 Veja também o exemplo do método `go()`. **[jsFiddle](http://jsfiddle.net/TeKuV/5/)**
 
 
+##### Exemplos DOM
+
+// em breve
+
+
+> Material de Referência bem completo: [BOM](https://developer.mozilla.org/en-US/docs/Web/API/Window) e [DOM](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference)
 
 
