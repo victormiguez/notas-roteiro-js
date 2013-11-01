@@ -31,4 +31,4 @@ Tanto este material como o livro serão **gratuitos** para a comunidade.
 
 ## 1) O que é JavaScript?
 
-### Uma breve Historia
+### Uma breve História
