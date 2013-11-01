@@ -1,4 +1,4 @@
-### Notas do Roteiro "Como Aprender JavaScript Corretamente"
+### Notas do Roteiro ["Como Aprender JavaScript Corretamente"](https://groups.google.com/forum/#!forum/impjs---grupo-01-roteiro-como-aprender-javascript-corretamente)
 
 #### O que serão estas notas?
 
